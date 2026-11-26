@@ -1,0 +1,12 @@
+__pycache__/
+.env*
+*.pem
+*.key
+*.ipynb
+*.zip
+*.csv
+*.xlsx
+*.pdf
+*.mov
+data/
+private/
